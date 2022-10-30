@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" filepath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.org.eclipse.egit.core.cmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicdbc/basicdbc.iml" filepath="$PROJECT_DIR$/basicdbc/basicdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board_hw/board_hw.iml" filepath="$PROJECT_DIR$/board_hw/board_hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bs_hw/bs_hw.iml" filepath="$PROJECT_DIR$/bs_hw/bs_hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcpractice3/jdbcpractice3.iml" filepath="$PROJECT_DIR$/jdbcpractice3/jdbcpractice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbcpractice4/jdbcpractice4.iml" filepath="$PROJECT_DIR$/jdbcpractice4/jdbcpractice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbctest/jdbctest.iml" filepath="$PROJECT_DIR$/jdbctest/jdbctest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbctest2/jdbctest2.iml" filepath="$PROJECT_DIR$/jdbctest2/jdbctest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scott/scott.iml" filepath="$PROJECT_DIR$/scott/scott.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scott2/scott2.iml" filepath="$PROJECT_DIR$/scott2/scott2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

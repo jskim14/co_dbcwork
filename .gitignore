@@ -1,0 +1,11 @@
+# Project exclude paths
+/basicdbc/bin/
+/board_hw/bin/
+/bs_hw/bin/
+/jdbcpractice3/bin/
+/jdbcpractice4/bin/
+/jdbctest/bin/
+/jdbctest2/bin/
+/scott/bin/
+/scott2/bin/
+/test/bin/
